@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="6751" systemVersion="14C1510" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" launchScreen="YES" useTraitCollections="YES">
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="6736"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="iN0-l3-epB">
+            <rect key="frame" x="0.0" y="0.0" width="480" height="480"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <imageView userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="screen" translatesAutoresizingMaskIntoConstraints="NO" id="BPU-7Z-dAZ">
+                    <rect key="frame" x="46" y="115" width="207" height="125"/>
+                    <constraints>
+                        <constraint firstAttribute="width" constant="207" id="60q-ry-rut"/>
+                        <constraint firstAttribute="height" constant="105" id="F0h-9H-3LK"/>
+                        <constraint firstAttribute="height" constant="125" id="Qdb-TF-C5y"/>
+                        <constraint firstAttribute="height" constant="125" id="a6q-g3-Wfd"/>
+                        <constraint firstAttribute="width" constant="183" id="dde-2k-kdz"/>
+                        <constraint firstAttribute="width" constant="207" id="tPR-vs-4GM"/>
+                    </constraints>
+                    <variation key="default">
+                        <mask key="constraints">
+                            <exclude reference="F0h-9H-3LK"/>
+                            <exclude reference="Qdb-TF-C5y"/>
+                            <exclude reference="dde-2k-kdz"/>
+                            <exclude reference="tPR-vs-4GM"/>
+                        </mask>
+                    </variation>
+                </imageView>
+            </subviews>
+            <color key="backgroundColor" red="0.47058823529411764" green="0.76862745098039209" blue="0.23137254901960785" alpha="1" colorSpace="calibratedRGB"/>
+            <constraints>
+                <constraint firstItem="BPU-7Z-dAZ" firstAttribute="centerX" secondItem="iN0-l3-epB" secondAttribute="centerX" id="4FW-jf-oUO"/>
+                <constraint firstItem="BPU-7Z-dAZ" firstAttribute="leading" secondItem="iN0-l3-epB" secondAttribute="leading" constant="46" id="552-4x-EAt"/>
+                <constraint firstItem="BPU-7Z-dAZ" firstAttribute="leading" secondItem="iN0-l3-epB" secondAttribute="leading" constant="125" id="GCl-xh-TFa"/>
+                <constraint firstItem="BPU-7Z-dAZ" firstAttribute="top" secondItem="iN0-l3-epB" secondAttribute="top" constant="187" id="QAa-Jr-uFe"/>
+                <constraint firstItem="BPU-7Z-dAZ" firstAttribute="top" secondItem="iN0-l3-epB" secondAttribute="top" constant="167" id="VCp-Ke-6FO"/>
+                <constraint firstItem="BPU-7Z-dAZ" firstAttribute="top" secondItem="iN0-l3-epB" secondAttribute="top" constant="115" id="naN-Zv-CZ8"/>
+            </constraints>
+            <nil key="simulatedStatusBarMetrics"/>
+            <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+            <variation key="default">
+                <mask key="constraints">
+                    <exclude reference="4FW-jf-oUO"/>
+                    <exclude reference="GCl-xh-TFa"/>
+                    <exclude reference="QAa-Jr-uFe"/>
+                    <exclude reference="VCp-Ke-6FO"/>
+                </mask>
+            </variation>
+            <point key="canvasLocation" x="548" y="455"/>
+        </view>
+    </objects>
+    <resources>
+        <image name="screen" width="493" height="353"/>
+    </resources>
+</document>
