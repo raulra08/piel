@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		C4171EE61ACB50E200A50344 /* SpeakerTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = C4171EE41ACB50E200A50344 /* SpeakerTableViewCell.m */; };
+		C453C0B31CAFE91A00B98689 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C453C0B21CAFE91A00B98689 /* Images.xcassets */; };
 		C453FBC71ABAD8E600F9AF8F /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = C453FBC61ABAD8E600F9AF8F /* main.m */; };
 		C453FBCA1ABAD8E600F9AF8F /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = C453FBC91ABAD8E600F9AF8F /* AppDelegate.m */; };
 		C453FBD31ABAD8E600F9AF8F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C453FBD11ABAD8E600F9AF8F /* Main.storyboard */; };
@@ -21,7 +22,6 @@
 		C4AD929F1AC9CA1200CA286E /* programme.plist in Resources */ = {isa = PBXBuildFile; fileRef = C4AD929E1AC9CA1200CA286E /* programme.plist */; };
 		C4AD92A21AC9E12A00CA286E /* PLSpeaker.m in Sources */ = {isa = PBXBuildFile; fileRef = C4AD92A11AC9E12A00CA286E /* PLSpeaker.m */; };
 		C4AD92A61AC9EAC600CA286E /* SpeakerViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C4AD92A51AC9EAC600CA286E /* SpeakerViewController.m */; };
-		C4C201201ABC8532001F287C /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C4C2011F1ABC8532001F287C /* Images.xcassets */; };
 		C4C201251ABC9073001F287C /* PLProgramme.m in Sources */ = {isa = PBXBuildFile; fileRef = C4C201241ABC9073001F287C /* PLProgramme.m */; };
 		C4C201291ABD1A69001F287C /* ProgrammeCell.m in Sources */ = {isa = PBXBuildFile; fileRef = C4C201281ABD1A69001F287C /* ProgrammeCell.m */; };
 		C4CED5EA1AC879DC00852ED9 /* MapKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C4CED5E91AC879DC00852ED9 /* MapKit.framework */; };
@@ -43,6 +43,7 @@
 /* Begin PBXFileReference section */
 		C4171EE31ACB50E200A50344 /* SpeakerTableViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SpeakerTableViewCell.h; sourceTree = "<group>"; };
 		C4171EE41ACB50E200A50344 /* SpeakerTableViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SpeakerTableViewCell.m; sourceTree = "<group>"; };
+		C453C0B21CAFE91A00B98689 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Images.xcassets; path = Piel/Images.xcassets; sourceTree = "<group>"; };
 		C453FBC11ABAD8E600F9AF8F /* Piel.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Piel.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		C453FBC51ABAD8E600F9AF8F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		C453FBC61ABAD8E600F9AF8F /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
@@ -68,7 +69,6 @@
 		C4AD92A11AC9E12A00CA286E /* PLSpeaker.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PLSpeaker.m; sourceTree = "<group>"; };
 		C4AD92A41AC9EAC600CA286E /* SpeakerViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SpeakerViewController.h; sourceTree = "<group>"; };
 		C4AD92A51AC9EAC600CA286E /* SpeakerViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SpeakerViewController.m; sourceTree = "<group>"; };
-		C4C2011F1ABC8532001F287C /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Images.xcassets; path = Piel/Images.xcassets; sourceTree = "<group>"; };
 		C4C201231ABC9073001F287C /* PLProgramme.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PLProgramme.h; sourceTree = "<group>"; };
 		C4C201241ABC9073001F287C /* PLProgramme.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PLProgramme.m; sourceTree = "<group>"; };
 		C4C201271ABD1A69001F287C /* ProgrammeCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ProgrammeCell.h; sourceTree = "<group>"; };
@@ -231,7 +231,7 @@
 		C4CED5E71AC85C0200852ED9 /* Resources */ = {
 			isa = PBXGroup;
 			children = (
-				C4C2011F1ABC8532001F287C /* Images.xcassets */,
+				C453C0B21CAFE91A00B98689 /* Images.xcassets */,
 				C453FBD11ABAD8E600F9AF8F /* Main.storyboard */,
 				C453FBD61ABAD8E600F9AF8F /* LaunchScreen.xib */,
 				C4CED5EB1AC88CD200852ED9 /* locations.plist */,
@@ -336,8 +336,8 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				C4C201201ABC8532001F287C /* Images.xcassets in Resources */,
 				C4CED5EC1AC88CD200852ED9 /* locations.plist in Resources */,
+				C453C0B31CAFE91A00B98689 /* Images.xcassets in Resources */,
 				C453FBD31ABAD8E600F9AF8F /* Main.storyboard in Resources */,
 				C453FBD81ABAD8E600F9AF8F /* LaunchScreen.xib in Resources */,
 				C4AD929F1AC9CA1200CA286E /* programme.plist in Resources */,

@@ -4,131 +4,93 @@
 <array>
 	<dict>
 		<key>title</key>
-		<string>Registration</string>
+		<string>Welcome Reception</string>
 		<key>time</key>
-		<string>09:00</string>
+		<string>09:30</string>
 	</dict>
 	<dict>
 		<key>title</key>
 		<string>Welcoming Remarks</string>
 		<key>time</key>
-		<string>09:25</string>
+		<string>09:50</string>
 	</dict>
 	<dict>
 		<key>speakers</key>
 		<array>
 			<dict>
 				<key>imageName</key>
-				<string>Emanuel Adam</string>
+				<string>Kirsty Scheeberger</string>
 				<key>title</key>
-				<string>Policy and Public Affairs Manager</string>
+				<string> UNFCCC Secretariat, UKELA and Beautiful Corporations</string>
 				<key>company</key>
-				<string>BritishAmerican Business</string>
+				<string>Vice-Chair of the UK Environmental Law Association</string>
 				<key>speaker</key>
-				<string>Emanuel Adam</string>
-			</dict>
-			<dict>
-				<key>imageName</key>
-				<string>William Howarth</string>
-				<key>title</key>
-				<string>Professor of Environmental Law</string>
-				<key>company</key>
-				<string>Kent Law School</string>
-				<key>speaker</key>
-				<string>Professor William Howarth</string>
-			</dict>
-			<dict>
-				<key>imageName</key>
-				<string>Samuel Lowe</string>
-				<key>title</key>
-				<string>Campaigner</string>
-				<key>company</key>
-				<string>Friends of the Earth</string>
-				<key>speaker</key>
-				<string>Samuel Lowe</string>
-			</dict>
-			<dict>
-				<key>imageName</key>
-				<string>Alan Bates</string>
-				<key>title</key>
-				<string>Barrister</string>
-				<key>company</key>
-				<string>Monckton Chambers</string>
-				<key>speaker</key>
-				<string>Alan Bates</string>
+				<string>Kirsty Scheeberger</string>
 			</dict>
 		</array>
 		<key>title</key>
-		<string>TTIP: A Dirty Deal?</string>
+		<string> Keynote Speech</string>
 		<key>time</key>
-		<string>09:30</string>
+		<string>10:00</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Coffee Break</string>
+		<key>time</key>
+		<string>10:50</string>
 	</dict>
 	<dict>
 		<key>speakers</key>
 		<array>
 			<dict>
 				<key>imageName</key>
-				<string>Sam Fowles</string>
+				<string>Emily Barritt</string>
 				<key>title</key>
-				<string>PhD student</string>
+				<string>Researcher at Cambridge Centre for Environment and Dickson Poon School of Law, King&apos;s College London</string>
 				<key>company</key>
-				<string>Queen Mary University of London</string>
+				<string>King’s College London</string>
 				<key>speaker</key>
-				<string>Sam Fowles</string>
+				<string>Dr. Emily Barritt (Moderator)</string>
+			</dict>
+			<dict>
+				<key>imageName</key>
+				<string>Alistair McGlone</string>
+				<key>title</key>
+				<string>Aarhus Convention Compliance Committee Member, McGlone and Associates Director</string>
+				<key>company</key>
+				<string>Alistair McGlone and Associates Limited</string>
+				<key>speaker</key>
+				<string>Alistair McGlone</string>
+			</dict>
+			<dict>
+				<key>imageName</key>
+				<string>Farhana Yamin</string>
+				<key>title</key>
+				<string>Track 0 Founder and CEO, Associate Fellow at Chatham House and Visiting Professor at University College London</string>
+				<key>company</key>
+				<string>Founder and CEO – Track 0</string>
+				<key>speaker</key>
+				<string>Farhana Yamin</string>
+			</dict>
+			<dict>
+				<key>imageName</key>
+				<string>Kurt Winter</string>
+				<key>title</key>
+				<string>Climate Change Lawyer and Litigator at ClientEarth</string>
+				<key>company</key>
+				<string>ClientEarth</string>
+				<key>speaker</key>
+				<string>Kurt Winter</string>
 			</dict>
 		</array>
 		<key>title</key>
-		<string>Threats to the Rule of Law: TTIP, Sovereignty and the Judiciary</string>
-		<key>time</key>
-		<string>10:40</string>
-	</dict>
-	<dict>
-		<key>title</key>
-		<string>Break</string>
+		<string>Panel I: &quot;In whose name? Public participation in climate change policies and regulations&quot;</string>
 		<key>time</key>
 		<string>11:10</string>
 	</dict>
 	<dict>
-		<key>speakers</key>
-		<array>
-			<dict>
-				<key>imageName</key>
-				<string>Ruth Bergan</string>
-				<key>title</key>
-				<string>Coordinator</string>
-				<key>company</key>
-				<string>UK Trade Justice Movement</string>
-				<key>speaker</key>
-				<string>Ruth Bergan</string>
-			</dict>
-		</array>
 		<key>title</key>
-		<string>TTIP, IDSDs and Third Country Rights</string>
-		<key>time</key>
-		<string>11:30</string>
-	</dict>
-	<dict>
-		<key>speakers</key>
-		<array>
-			<dict>
-				<key>imageName</key>
-				<string>Nicolas de Sadeleer</string>
-				<key>title</key>
-				<string>Facultés Universitaires Saint-Louis</string>
-				<key>company</key>
-				<string>Brussels</string>
-				<key>speaker</key>
-				<string>Nicolas de Sadeleer</string>
-			</dict>
-		</array>
-		<key>title</key>
-		<string>Trade and the Environment in the EU</string>
-		<key>time</key>
-		<string>12:00</string>
-	</dict>
-	<dict>
-		<key>title</key>
-		<string>Lunch (vegetarian/ vegan)</string>
+		<string>Lunch Break</string>
 		<key>time</key>
 		<string>13:00</string>
 	</dict>
@@ -137,167 +99,74 @@
 		<array>
 			<dict>
 				<key>imageName</key>
-				<string>Amelia Womack</string>
+				<string>Richard Macrory</string>
 				<key>title</key>
-				<string>Deputy Leader</string>
+				<string>Barrister at Brick Court Chambers and Professor of Environmental Law at University College London
+</string>
 				<key>company</key>
-				<string>Green Party</string>
+				<string>University College London</string>
 				<key>speaker</key>
-				<string>Amelia Womack</string>
+				<string>Richard Macrory CBE (Moderator)</string>
+			</dict>
+			<dict>
+				<key>imageName</key>
+				<string>Martin Nesbit</string>
+				<key>title</key>
+				<string>IEEP Senior Fellow and Head of Environmental and Climate Governance Programme</string>
+				<key>company</key>
+				<string>IEEP</string>
+				<key>speaker</key>
+				<string>Martin Nesbit</string>
+			</dict>
+			<dict>
+				<key>imageName</key>
+				<string>Angela Francis</string>
+				<key>title</key>
+				<string>Economist at Green Alliance</string>
+				<key>company</key>
+				<string>Green Alliance</string>
+				<key>speaker</key>
+				<string>Angela Francis</string>
+			</dict>
+			<dict>
+				<key>imageName</key>
+				<string>Linda Sigele</string>
+				<key>title</key>
+				<string>Guest Lecturer at SOAS and Advisor for Alliance of Small Island States</string>
+				<key>company</key>
+				<string>Environmental lawyer</string>
+				<key>speaker</key>
+				<string>Linda Sigele</string>
 			</dict>
 		</array>
 		<key>title</key>
-		<string>The Political Challenges of Reconciling Trade and Environmental Interests</string>
+		<string>Panel II: &quot;Green Technology: regulation challenges and future potential&quot;</string>
 		<key>time</key>
 		<string>14:00</string>
 	</dict>
 	<dict>
-		<key>speakers</key>
-		<array>
-			<dict>
-				<key>imageName</key>
-				<string>Tom Burke</string>
-				<key>title</key>
-				<string>Chairman</string>
-				<key>company</key>
-				<string>E3G</string>
-				<key>speaker</key>
-				<string>Tom Burke</string>
-			</dict>
-		</array>
 		<key>title</key>
-		<string>TTIP Climate Change Catastrophe?</string>
+		<string>Coffee Break</string>
 		<key>time</key>
-		<string>14:45</string>
-	</dict>
-	<dict>
-		<key>speakers</key>
-		<array>
-			<dict>
-				<key>imageName</key>
-				<string>Shruti Suresh</string>
-				<key>title</key>
-				<string>Wildlife Campaigner</string>
-				<key>company</key>
-				<string>Environmental Investigation Agency</string>
-				<key>speaker</key>
-				<string>Shruti Suresh</string>
-			</dict>
-		</array>
-		<key>title</key>
-		<string>CITES and the Illegal Trade in Endangered Species</string>
-		<key>time</key>
-		<string>15:20</string>
+		<string>15:00</string>
 	</dict>
 	<dict>
 		<key>title</key>
-		<string>Break</string>
+		<string>Panel III: &quot;Carbon Markets in the post-Kyoto era&quot; </string>
 		<key>time</key>
-		<string>15:40</string>
+		<string>15:15</string>
 	</dict>
 	<dict>
-		<key>speakers</key>
-		<array>
-			<dict>
-				<key>imageName</key>
-				<string>William Howarth</string>
-				<key>title</key>
-				<string>Professor of Environmental Law</string>
-				<key>company</key>
-				<string>Kent Law School</string>
-				<key>speaker</key>
-				<string>Professor William Howarth</string>
-			</dict>
-			<dict>
-				<key>imageName</key>
-				<string>Clotilde Henriot</string>
-				<key>title</key>
-				<string>Law and Policy Advisor</string>
-				<key>company</key>
-				<string>Client Earth</string>
-				<key>speaker</key>
-				<string>Clotilde Henriot</string>
-			</dict>
-			<dict>
-				<key>imageName</key>
-				<string>Jozef Weyns</string>
-				<key>title</key>
-				<string>Law and Policy Advisor</string>
-				<key>company</key>
-				<string>Client Earth</string>
-				<key>speaker</key>
-				<string>Jozef Weyns</string>
-			</dict>
-			<dict>
-				<key>imageName</key>
-				<string>Leonie Lawrence</string>
-				<key>title</key>
-				<string>Senior Project Officer</string>
-				<key>company</key>
-				<string>Global Canopy</string>
-				<key>speaker</key>
-				<string>Leonie Lawrence</string>
-			</dict>
-		</array>
 		<key>title</key>
-		<string>Seeing the Woods for the Trees: Effective Against Deforestation</string>
+		<string>PIEL 10th Anniversary speech and closing words</string>
 		<key>time</key>
-		<string>16:00</string>
+		<string>16:45</string>
 	</dict>
 	<dict>
-		<key>speakers</key>
-		<array>
-			<dict>
-				<key>imageName</key>
-				<string>William Howarth</string>
-				<key>title</key>
-				<string>Professor of Environmental Law</string>
-				<key>company</key>
-				<string>Kent Law School</string>
-				<key>speaker</key>
-				<string>Professor William Howarth</string>
-			</dict>
-			<dict>
-				<key>imageName</key>
-				<string>Mariel Vilella</string>
-				<key>title</key>
-				<string>Associate Director</string>
-				<key>company</key>
-				<string>Zero Waste Europe</string>
-				<key>speaker</key>
-				<string>Mariel Vilella</string>
-			</dict>
-			<dict>
-				<key>imageName</key>
-				<string>Piotr Barczak</string>
-				<key>title</key>
-				<string>Policy Officer for Waste</string>
-				<key>company</key>
-				<string>European Environmental Bureau</string>
-				<key>speaker</key>
-				<string>Piotr Barczak</string>
-			</dict>
-			<dict>
-				<key>imageName</key>
-				<string>Margaret Bates</string>
-				<key>speaker</key>
-				<string>Margaret Bates</string>
-				<key>title</key>
-				<string>The University of Northampton</string>
-				<key>company</key>
-				<string>BritishAmerican Business</string>
-			</dict>
-		</array>
 		<key>title</key>
-		<string>Consumers, Product and Packaging: Aspects of Waste Management</string>
+		<string>Drinks Reception</string>
 		<key>time</key>
 		<string>17:00</string>
-	</dict>
-	<dict>
-		<key>title</key>
-		<string>Closing Remarks &amp; Drinks</string>
-		<key>time</key>
-		<string>18:00</string>
 	</dict>
 </array>
 </plist>

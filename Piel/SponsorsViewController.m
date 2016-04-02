@@ -27,7 +27,7 @@
 }
 
 - (NSInteger)tableView:(UITableView *)tableView numberOfRowsInSection:(NSInteger)section {
-    return 4;
+    return 5;
 }
 
 -(UITableViewCell*)tableView:(UITableView *)tableView cellForRowAtIndexPath:(NSIndexPath *)indexPath
@@ -39,12 +39,12 @@
     
     switch (indexPath.row) {
         case 0:
-            imageName = [NSString stringWithFormat:@"%@.jpg",@"Center For Law"];
+            imageName = [NSString stringWithFormat:@"%@.jpg",@"Center Law"];
             labelName = [NSString stringWithFormat:@"Center For Law"];
             break;
         case 1:
-            imageName = [NSString stringWithFormat:@"%@.jpg",@"Environmental Jobs"];
-            labelName = [NSString stringWithFormat:@"Environmental Jobs"];
+            imageName = [NSString stringWithFormat:@"%@.jpg",@"Inner Temple"];
+            labelName = [NSString stringWithFormat:@"The Inner Temple"];
             break;
         case 2:
             imageName = [NSString stringWithFormat:@"%@.jpg",@"City Law"];
@@ -53,6 +53,10 @@
         case 3:
             imageName = [NSString stringWithFormat:@"%@.png",@"School of Law"];
             labelName = [NSString stringWithFormat:@"School of Law"];
+            break;
+        case 4:
+            imageName = [NSString stringWithFormat:@"%@.png",@"Francis Taylor"];
+            labelName = [NSString stringWithFormat:@"Francis Taylor Building"];
             break;
         default:
             break;
