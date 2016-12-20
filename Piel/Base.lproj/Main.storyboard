@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="10116" systemVersion="15D21" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" initialViewController="49e-Tb-3d3">
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="10116" systemVersion="15E65" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" initialViewController="49e-Tb-3d3">
     <dependencies>
         <deployment identifier="iOS"/>
         <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="10085"/>
@@ -48,13 +48,13 @@
                                     <view contentMode="scaleToFill" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="Kl8-95-WWT">
                                         <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                                     </view>
-                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" misplaced="YES" text="Satisfying Consumption: Trade and the Environment" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="aDA-ty-3fP">
-                                        <rect key="frame" x="15" y="15" width="570" height="20.5"/>
+                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" misplaced="YES" text="Climate talks after Paris: beyond the pledges" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="aDA-ty-3fP">
+                                        <rect key="frame" x="15" y="15" width="570" height="21"/>
                                         <fontDescription key="fontDescription" name="HelveticaNeue-Bold" family="Helvetica Neue" pointSize="17"/>
                                         <color key="textColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                         <nil key="highlightedColor"/>
                                     </label>
-                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" misplaced="YES" text="Thursday, 9th April 2015 • Cass Business School, London" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="H0r-HY-NY7">
+                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" misplaced="YES" text="Thursday, 15th April 2016 • Cass Business School, London" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="H0r-HY-NY7">
                                         <rect key="frame" x="15" y="43" width="570" height="14.5"/>
                                         <fontDescription key="fontDescription" name="HelveticaNeue-Bold" family="Helvetica Neue" pointSize="12"/>
                                         <color key="textColor" red="0.47058823529411764" green="0.76862745098039209" blue="0.23137254901960785" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
@@ -62,7 +62,8 @@
                                     </label>
                                     <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" misplaced="YES" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="bPt-eP-TlU">
                                         <rect key="frame" x="15" y="65" width="570" height="98"/>
-                                        <string key="text">Consumption and trade continue to increase, creating unprecedented environmental challenges. The controversial Transatlantic Trade and Investment Partnership (TTIP) currently being negotiated behind closed doors threatens to hand more power to corporations and lower regulatory standards between the EU and the US, at untold environmental cost. As we enter a new era of trade, do we know the full implications of our actions? </string>
+                                        <string key="text">The ongoing climate talks in Paris (COP21) will impact the future of environmental law and policy not only for the UK, but also for the world. 
+On its 10th Anniversary, PIEL UK chose to focus on the outcome of this important event, and the impacts of the pledges on the energy sector, carbon markets, and the role of public participation.</string>
                                         <fontDescription key="fontDescription" name="HelveticaNeue" family="Helvetica Neue" pointSize="14"/>
                                         <color key="textColor" red="1" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>
                                         <nil key="highlightedColor"/>
@@ -156,8 +157,8 @@
                         <rect key="frame" x="0.0" y="0.0" width="600" height="600"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
-                            <mapView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" mapType="standard" zoomEnabled="NO" scrollEnabled="NO" rotateEnabled="NO" pitchEnabled="NO" showsUserLocation="YES" showsBuildings="NO" showsPointsOfInterest="NO" translatesAutoresizingMaskIntoConstraints="NO" id="SOE-5J-49q">
-                                <rect key="frame" x="0.0" y="314" width="600" height="237"/>
+                            <mapView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" mapType="standard" rotateEnabled="NO" pitchEnabled="NO" showsUserLocation="YES" showsBuildings="NO" showsPointsOfInterest="NO" translatesAutoresizingMaskIntoConstraints="NO" id="SOE-5J-49q">
+                                <rect key="frame" x="0.0" y="191" width="600" height="360"/>
                             </mapView>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" misplaced="YES" text="Contact" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="h79-aZ-W7d">
                                 <rect key="frame" x="16" y="72" width="91.5" height="29"/>
@@ -182,7 +183,7 @@
                             <constraint firstItem="ovm-T0-qVo" firstAttribute="leading" secondItem="h79-aZ-W7d" secondAttribute="leading" id="8bN-ZU-3gr"/>
                             <constraint firstItem="ovm-T0-qVo" firstAttribute="top" secondItem="h79-aZ-W7d" secondAttribute="bottom" constant="8" id="IMG-dh-iAA"/>
                             <constraint firstItem="h79-aZ-W7d" firstAttribute="top" secondItem="GSI-Kk-w0S" secondAttribute="bottom" constant="8" id="Otk-Wz-wcr"/>
-                            <constraint firstItem="SOE-5J-49q" firstAttribute="top" secondItem="8Au-pq-HYH" secondAttribute="top" constant="314" id="Rlc-zE-k6J"/>
+                            <constraint firstItem="SOE-5J-49q" firstAttribute="top" secondItem="8Au-pq-HYH" secondAttribute="top" constant="191" id="Rlc-zE-k6J"/>
                             <constraint firstAttribute="bottom" secondItem="SOE-5J-49q" secondAttribute="bottom" constant="49" id="eVG-B0-lqK"/>
                             <constraint firstAttribute="trailing" secondItem="SOE-5J-49q" secondAttribute="trailing" id="hSN-lZ-li5"/>
                             <constraint firstItem="SOE-5J-49q" firstAttribute="leading" secondItem="8Au-pq-HYH" secondAttribute="leading" id="uR5-fy-41r"/>
@@ -239,7 +240,7 @@
                                         <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" misplaced="YES" text="Sponsor" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="kgo-ny-tTF">
                                             <rect key="frame" x="121" y="39" width="65" height="21"/>
                                             <fontDescription key="fontDescription" type="system" pointSize="17"/>
-                                            <color key="textColor" cocoaTouchSystemColor="darkTextColor"/>
+                                            <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
                                             <nil key="highlightedColor"/>
                                         </label>
                                     </subviews>
@@ -335,7 +336,7 @@
                 </tableViewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="RwH-b5-rQJ" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="66" y="2018"/>
+            <point key="canvasLocation" x="288" y="2018"/>
         </scene>
         <!--Speaker View Controller-->
         <scene sceneID="fGe-Ty-1Ha">

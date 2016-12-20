@@ -18,7 +18,7 @@
 - (void)viewWillAppear:(BOOL)animated
 {
     [super viewWillAppear:animated];
-    self.navigationController.navigationBar.topItem.title = @"Piel 9th Conference";
+    self.navigationController.navigationBar.topItem.title = @"Piel 10th Conference";
 }
 
 - (void)viewDidLoad
